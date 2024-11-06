@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7r5MJjNqkU60RYoXsaBh-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSewLIrMx6bGvbg5XyTsZqCdF1fDkgrHNrn1RGjoNbeclOoNJw/viewform" CVScreenId="182d8fc1-e60c-4569-8e72-ca67e1596c9a" CvElementArea="387, 555, 594, 35" CvType="InputBox" DesignTimeRectangle="388, 565, 590, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='TEXTAREA' type='' class='KHxj8b tL9Q4c' aaname='' /&gt;" Guid="5ff5aa57-6c4e-4d25-81a3-96b99d3c2f73" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Form Customers' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="182d8fc1-e60c-4569-8e72-ca67e1596c9a" CvTextArea="386, 514, 61, 15" CvTextArgument="Address" CvType="Text" DesignTimeRectangle="388, 511, 58, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='i22' tag='SPAN' type='' class='M7eMe' aaname='Address' check:innerText='Address' /&gt;" Guid="c2e6bd84-82e1-40d8-a2bb-4e937a096fdf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c828b33c54fed4d473129ab74547fa04.png" xmlns="">00DWMui-270GwVWXJ5jMIXQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

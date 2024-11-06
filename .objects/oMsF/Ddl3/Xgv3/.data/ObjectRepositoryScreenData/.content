@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="XEbdBT77ekeT__pKOmZqHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1382, 784" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAA4SURBVDhPY0i32n4AiP+TifeDDMAmQTQeZAbAADIbG0DWQ10DyMGjXhh0XiAHU8WA/eiCxOPtuwEl0a7qam5sogAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='Form Customers' /&gt;" Title="Form Customers" Url="https://docs.google.com/forms/d/e/1FAIpQLSewLIrMx6bGvbg5XyTsZqCdF1fDkgrHNrn1RGjoNbeclOoNJw/viewform" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="717eab10634a4f2836731932b253da7f.jpg" xmlns="">0_z-XPN3k_E-pXkmKU63AgQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Kirim",
+  "Type": "Element",
+  "Id": "EhR2EJySKkugeZgy4d425w",
+  "Reference": "5kDUzX_xd0SWhcRvmEOl_A/EhR2EJySKkugeZgy4d425w",
+  "ParentRef": "5kDUzX_xd0SWhcRvmEOl_A/Xgv3kugOiEuPD5EK6GE6Yg",
+  "Created": "2024-11-06T14:23:15.7796255Z",
+  "Updated": "2024-11-06T14:23:15.7796255Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

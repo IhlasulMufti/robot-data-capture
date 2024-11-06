@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Form Customers",
+  "Type": "App",
+  "Id": "oMsFymwcW0aVRN_-SNrS0g",
+  "Reference": "5kDUzX_xd0SWhcRvmEOl_A/oMsFymwcW0aVRN_-SNrS0g",
+  "Created": "2024-11-06T14:10:04.5440748Z",
+  "Updated": "2024-11-06T14:10:04.5440748Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

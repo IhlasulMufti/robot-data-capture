@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lif3jXsGX0mq5iheoKkk2A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSewLIrMx6bGvbg5XyTsZqCdF1fDkgrHNrn1RGjoNbeclOoNJw/viewform" CVScreenId="182d8fc1-e60c-4569-8e72-ca67e1596c9a" CvElementArea="385, 376, 25, 25" CvTextArea="419, 380, 33, 15" CvTextArgument="Male" CvType="RadioButton" DesignTimeRectangle="388, 377, 64, 24" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl type='' tag='DIV' class='bzfPab wFGF8' aaname='' check:innerText='Male' /&gt;" Guid="3b9dec7a-7600-40f8-bd9b-5831589cfd85" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Form Customers' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="182d8fc1-e60c-4569-8e72-ca67e1596c9a" CvTextArea="387, 332, 52, 15" CvTextArgument="Gender" CvType="Text" DesignTimeRectangle="388, 329, 51, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='i11' tag='SPAN' type='' class='M7eMe' aaname='Gender' check:innerText='Gender' /&gt;" Guid="b12d45d0-c80f-4f46-b15b-3882f4c53ee9" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7b302ed883691d366eb015ba03d749f3.png" xmlns="">00SM_hYdtQUWb2pXd-FGU8w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
