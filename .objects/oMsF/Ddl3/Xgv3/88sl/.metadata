@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Kirim jawaban lain",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "88sl6CE8lEmZkS5Z_89dtg",
+  "Reference": "5kDUzX_xd0SWhcRvmEOl_A/88sl6CE8lEmZkS5Z_89dtg",
+  "ParentRef": "5kDUzX_xd0SWhcRvmEOl_A/Xgv3kugOiEuPD5EK6GE6Yg",
+  "Created": "2024-11-07T08:22:58.1772659Z",
+  "Updated": "2024-11-07T08:22:58.1772659Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

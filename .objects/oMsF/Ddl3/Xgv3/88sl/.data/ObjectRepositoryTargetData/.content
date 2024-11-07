@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EMNCcUfMWEGt7qWyDGIdpA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/u/0/d/e/1FAIpQLSewLIrMx6bGvbg5XyTsZqCdF1fDkgrHNrn1RGjoNbeclOoNJw/formResponse" CVScreenId="cfe9676b-95a2-4426-9047-a59edf5c71fe" CvTextArea="396, 332, 114, 14" CvTextArgument="Kirim jawaban lain" CvType="Text" DesignTimeRectangle="396, 332, 114, 17" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='A' type='' class='' aaname='Kirim jawaban lain' check:innerText='Kirim jawaban lain' /&gt;" Guid="e28fa73a-8efd-4c7a-973b-3c1967f078bf" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Form Customers' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5746f6381bb381b49aa1d205b6e73912.png" xmlns="">0TZ2eLbxFh0CYQzjietU94Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
